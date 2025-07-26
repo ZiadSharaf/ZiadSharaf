@@ -41,7 +41,7 @@ Here are a few of my highlighted projects:
 
   - 📊 *[Multi Channel Queue Simulation System for a Petrol Station](https://github.com/ZiadSharaf/Multi-Channel-Queue-Simulation-System-for-a-Petrol-Station-)*  
   Developed a discrete-event simulation system based on OOP principles for a multi-channel queue at a petrol station
- 💡 *Technologies used:* C++, OOP, Python
+  💡 *Technologies used:* C++, OOP, Python
   
   - 🐍 *[Bank System Database Management Project](https://github.com/ZiadSharaf/Bank-System-Database-Management-Project-)*  
   Designed a conceptual and physical Entity-Relationship Diagram (ERD). Developed a SQL Server database from the ERD and populated it with sample data. Built a C# desktop application to    interact with the database.
