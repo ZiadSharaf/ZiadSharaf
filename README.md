@@ -60,10 +60,3 @@ Here are a few of my highlighted projects:
 - 🌐 [Portfolio](https://ziadsharaf.github.io/Portfolio/)
 
 ---
-
-## 📊 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiadSharaf&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSharaf&layout=compact&theme=dark" height="150"/>
-</p>
