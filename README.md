@@ -46,6 +46,7 @@ Here are a few of my highlighted projects:
   
   - 🐍 *[Bank System Database Management Project](https://github.com/ZiadSharaf/Bank-System-Database-Management-Project-)*  
   Designed a conceptual and physical Entity-Relationship Diagram (ERD). Developed a SQL Server database from the ERD and populated it with sample data. Built a C# desktop application to    interact with the database.
+   💡 *Technologies used:* SQL, C#
 
 👉 [Explore more of my projects on GitHub](https://github.com/ZiadSharaf?tab=repositories)
 
