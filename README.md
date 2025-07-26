@@ -45,7 +45,9 @@ Here are a few of my highlighted projects:
   Designed a conceptual and physical Entity-Relationship Diagram (ERD). Developed a SQL Server database from the ERD and populated it with sample data. Built a C# desktop application to    interact with the database.
 
 👉 *More projects available on my repositories — feel free to explore!*
-*
+
+👉 [Explore more of my projects on GitHub](https://github.com/ZiadSharaf?tab=repositories)
+
 
 ---
 
