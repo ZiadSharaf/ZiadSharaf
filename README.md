@@ -51,7 +51,7 @@ Here are a few of my highlighted projects:
 
 - 🔗 [LinkedIn](https://linkedin.com/in/ziad-sharaf)  
 - 📧 [Email](mailto:Zyad.nasser.10@gmail.com)  
-- 🌐 Portfolio: [Coming Soon](#)
+- 🌐 [Portfolio](https://ziadsharaf.github.io/Portfolio/)
 
 ---
 
