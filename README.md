@@ -56,14 +56,11 @@ Here are a few of my highlighted projects:
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ziad-sharaf-a081b626a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Zyad.nasser.10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ziad-sharaf-a081b626a/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data&logoColor=white&label=Portfolio" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/ziad-sharaf-a081b626a/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/ZiadSharaf/Portfolio/main/logo.png" alt="Logo" height="28" style="vertical-align: middle; border-radius: 4px;"/>
+    <span style="display: inline-block; background-color: #000000; color: white; padding: 8px 12px; border-radius: 6px; font-family: sans-serif; font-weight: bold; font-size: 14px; vertical-align: middle; margin-left: 6px;">
+      Portfolio
+    </span>
   </a>
 </p>
 
