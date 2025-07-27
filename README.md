@@ -55,14 +55,7 @@ Here are a few of my highlighted projects:
 
 ## 📬 Contact Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ziad-sharaf-a081b626a/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ZiadSharaf/Portfolio/main/logo.png" alt="Logo" height="28" style="vertical-align: middle; border-radius: 4px;"/>
-    <span style="display: inline-block; background-color: #000000; color: white; padding: 8px 12px; border-radius: 6px; font-family: sans-serif; font-weight: bold; font-size: 14px; vertical-align: middle; margin-left: 6px;">
-      Portfolio
-    </span>
-  </a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/ziad-sharaf" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:Zyad.nasser.10@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://ziadsharaf.github.io/Portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/> </a> </p>
 
 
 ---
