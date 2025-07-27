@@ -62,7 +62,7 @@ Here are a few of my highlighted projects:
   <a href="mailto:Zyad.nasser.10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://ziadsharaf.github.io/Portfolio/" target="_blank">
+  <a href="[https://ziadsharaf.github.io/Portfolio/](https://www.linkedin.com/in/ziad-sharaf-a081b626a/)" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge" alt="Portfolio" />
     <img src="https://raw.githubusercontent.com/ZiadSharaf/Portfolio/main/logo.png" alt="Custom Logo" height="28" style="vertical-align: middle; margin-left: 5px;" />
   </a>
