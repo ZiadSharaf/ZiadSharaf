@@ -57,17 +57,14 @@ Here are a few of my highlighted projects:
 
 <p align="left">
 
-  <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/ziad-sharaf-a081b626a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- Gmail Button (label updated) -->
   <a href="mailto:Zyad.nasser.10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <!-- Portfolio Button -->
   <a href="https://ziadsharaf.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
