@@ -67,8 +67,13 @@ Here are a few of my highlighted projects:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <!-- Portfolio Button with Custom Logo -->
-  <a href="https://ziadsharaf.github.io/Portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/> </a> 
+  <!-- Portfolio Button with Custom Logo (Styled like a badge) -->
+  <a href="https://ziadsharaf.github.io/Portfolio/" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-flex; align-items: center; background-color: #000000; color: white; padding: 8px 12px; border-radius: 6px; font-family: sans-serif; font-weight: bold; font-size: 14px; height: 28px;">
+      <img src="https://raw.githubusercontent.com/ZiadSharaf/Portfolio/main/logo.png" alt="Portfolio Logo" height="20" style="margin-right: 8px; border-radius: 3px;">
+      Portfolio
+    </span>
+  </a>
 
 </p>
 
