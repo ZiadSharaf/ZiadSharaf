@@ -40,7 +40,7 @@
 Here are a few of my highlighted projects:
 
   - 📊 [Car Sales Project](https://github.com/ZiadSharaf/Car-Sales-Project)  
-  Cleaned and analyzed a car sales dataset containing 30 manufacturers and 157 models. Predicted missing values using machine learning in Python and built interactive dashboards using Excel (Power Query, Power Pivot, DAX) to uncover insights for stakeholders.  
+  Cleaned and analyzed a car sales dataset containing 30 manufacturers and 157 models. Predicted missing values using machine learning in Python and built interactive dashboards using Excel to uncover insights for stakeholders.  
   💡 Technologies used: Python, scikit-learn, Excel (Power Query, Power Pivot, DAX)
 
   - 📊 [Multi Channel Queue Simulation System for a Petrol Station](https://github.com/ZiadSharaf/Multi-Channel-Queue-Simulation-System-for-a-Petrol-Station-)  
