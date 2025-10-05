@@ -40,7 +40,7 @@
 
 Here are a few of my highlighted projects:
 
-- 📊 [Hotel Reservation Performance Dashboard](https://github.com/ZiadSharaf/Hotel-Reservation-Performance-Dashboard)  
+ - 📊 [Hotel Reservation Performance Dashboard](https://github.com/ZiadSharaf/Hotel-Reservation-Performance-Dashboard)  
   Cleaned and analyzed a car sales dataset containing 30 manufacturers and 157 models. Predicted missing values using machine learning in Python and built interactive dashboards using Excel to uncover insights for stakeholders.  
   💡 Technologies used: Python, scikit-learn, Excel (Power Query, Power Pivot, DAX)
 
@@ -52,7 +52,7 @@ Here are a few of my highlighted projects:
   Developed a discrete-event simulation system based on OOP principles for a multi-channel queue at a petrol station.  
   💡 Technologies used: C++, OOP, Python
 
-  - 🐍 [Bank System Database Management Project](https://github.com/ZiadSharaf/Bank-System-Database-Management-Project-)  
+  - 📊 [Bank System Database Management Project](https://github.com/ZiadSharaf/Bank-System-Database-Management-Project-)  
   Designed a conceptual and physical Entity-Relationship Diagram (ERD). Developed a SQL Server database from the ERD and populated it with sample data. Built a C# desktop application to interact with the database.  
   💡 Technologies used: SQL, C#
 
