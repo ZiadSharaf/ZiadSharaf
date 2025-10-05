@@ -41,11 +41,11 @@
 Here are a few of my highlighted projects:
 
  - 📊 [Hotel Reservation Performance Dashboard](https://github.com/ZiadSharaf/Hotel-Reservation-Performance-Dashboard)  
-	Analyzed a dataset of 119,390 hotel bookings spanning July 2015 to August 2017 to uncover insights on booking patterns, cancellations, and guest behavior.
- Cleaned and transformed data by renaming columns for consistency, correcting errors, and filling in missing values.
-Built a date dimension and converted the main table into a star schema with dimensions.
-Developed interactive dashboards to visualize operational performance and key booking trends. 
-  💡 Technologies used: Power Bi (Power Query, M Language, DAX, Data Modeling)
+	Analyzed a dataset of 119,390 hotel bookings spanning July 2015 to August 2017 to uncover insights on booking patterns, cancellations, and guest behavior.  
+	Cleaned and transformed data by renaming columns for consistency, correcting errors, and filling in missing values.  
+	Built a date dimension and converted the main table into a star schema with dimensions.  
+	Developed interactive dashboards to visualize operational performance and key booking trends.  
+	<br>💡 **Technologies used:** Power BI (Power Query, M Language, DAX, Data Modeling)
 
   - 📊 [Car Sales Project](https://github.com/ZiadSharaf/Car-Sales-Project)  
   Cleaned and analyzed a car sales dataset containing 30 manufacturers and 157 models. Predicted missing values using machine learning in Python and built interactive dashboards using Excel to uncover insights for stakeholders.  
