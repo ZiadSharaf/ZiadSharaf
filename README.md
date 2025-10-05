@@ -80,6 +80,10 @@ Here are a few of my highlighted projects:
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 
+  <a href="https://www.novypro.com/profile_about/ziad-nasser" target="_blank">
+    <img src="https://img.shields.io/badge/NovyPro-1E90FF?style=for-the-badge&logo=powerbi&logoColor=white" alt="NovyPro"/>
+  </a>
+  
 </p>
 
 
