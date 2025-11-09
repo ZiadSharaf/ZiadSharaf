@@ -40,6 +40,10 @@
 
 Here are a few of my highlighted projects:
 
+- 📊 [ITI Examination System](https://github.com/ZiadSharaf/ITI-Examination-System)  
+   This project represents a comprehensive end-to-end solution aimed at transforming how the Information Technology Institute (ITI) manages its academic operations. It goes        beyond a simple database, creating a complete ecosystem that handles everything from student registration to advanced business intelligence. 
+  💡 **Technologies used:** Python, SQL, SQL Server Management Studio, SSRS and Power BI.
+
  - 📊 [Hotel Reservation Performance Dashboard](https://github.com/ZiadSharaf/Hotel-Reservation-Performance-Dashboard)  
 	Analyzed a dataset of 119,390 hotel bookings spanning July 2015 to August 2017 to uncover insights on booking patterns, cancellations, and guest behavior.  
 	Cleaned and transformed data by renaming columns for consistency, correcting errors, and filling in missing values.  
@@ -50,10 +54,6 @@ Here are a few of my highlighted projects:
   - 📊 [Car Sales Project](https://github.com/ZiadSharaf/Car-Sales-Project)  
   Cleaned and analyzed a car sales dataset containing 30 manufacturers and 157 models. Predicted missing values using machine learning in Python and built interactive dashboards using Excel to uncover insights for stakeholders.  
   💡 Technologies used: Python, scikit-learn, Excel (Power Query, Power Pivot, DAX)
-
-  - 📊 [Multi Channel Queue Simulation System for a Petrol Station](https://github.com/ZiadSharaf/Multi-Channel-Queue-Simulation-System-for-a-Petrol-Station-)  
-  Developed a discrete-event simulation system based on OOP principles for a multi-channel queue at a petrol station.  
-  💡 Technologies used: C++, OOP, Python
 
   - 📊 [Bank System Database Management Project](https://github.com/ZiadSharaf/Bank-System-Database-Management-Project-)  
   Designed a conceptual and physical Entity-Relationship Diagram (ERD). Developed a SQL Server database from the ERD and populated it with sample data. Built a C# desktop application to interact with the database.  
