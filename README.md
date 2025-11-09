@@ -42,7 +42,7 @@ Here are a few of my highlighted projects:
 
 - 📊 [ITI Examination System](https://github.com/ZiadSharaf/ITI-Examination-System)  
    This project represents a comprehensive end-to-end solution aimed at transforming how the Information Technology Institute (ITI) manages its academic operations. It goes        beyond a simple database, creating a complete ecosystem that handles everything from student registration to advanced business intelligence. 
-  💡 **Technologies used:** Python, SQL, SQL Server Management Studio, SSRS and Power BI.
+   💡 **Technologies used:** Python, SQL, SQL Server Management Studio, SSRS and Power BI.
 
  - 📊 [Hotel Reservation Performance Dashboard](https://github.com/ZiadSharaf/Hotel-Reservation-Performance-Dashboard)  
 	Analyzed a dataset of 119,390 hotel bookings spanning July 2015 to August 2017 to uncover insights on booking patterns, cancellations, and guest behavior.  
