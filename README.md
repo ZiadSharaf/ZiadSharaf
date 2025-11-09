@@ -9,7 +9,7 @@
 
 🎓 Data enthusiast with strong knowledge in data analysis, and BI tools.  
 🔍 Interested in solving business problems using data-driven approaches.  
-🧠 I enjoy working with Excel, SQL, and python
+🧠 I enjoy working with Excel, SQL, and Power BI.
 
 
 ---
