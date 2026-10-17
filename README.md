@@ -46,6 +46,10 @@ Data Analyst and Computer Science graduate with 1+ years of experience in data a
 
 Here are a few of my highlighted projects:
 
+- 📊 [Olist E-Commerce Marketing Analytics](https://github.com/ZiadSharaf/Olist-E-Commerce-Marketing-Analytics)  
+  Designed a dimensional data model using a Galaxy Schema to integrate e-commerce and marketing data. Used Power Query for data cleaning and transformation, and DAX to calculate business KPIs. Developed Power BI reports to analyze sales, customer behavior, order fulfillment, payments, and marketing performance.  
+  💡 **Technologies used:** Power BI, Power Query, DAX
+
 - 📊 [ITI Examination System](https://github.com/ZiadSharaf/ITI-Examination-System)  
     This project represents a comprehensive end-to-end solution aimed at transforming how the Information Technology Institute (ITI) manages its academic operations. It goes beyond a simple database, creating a complete ecosystem that handles everything from student registration to advanced business intelligence.  
     💡 **Technologies used:** Python, SQL, SQL Server Management Studio, SSRS and Power BI.
@@ -53,10 +57,6 @@ Here are a few of my highlighted projects:
  - 📊 [Hotel Reservation Performance Dashboard](https://github.com/ZiadSharaf/Hotel-Reservation-Performance-Dashboard)  
 	Analyzed a dataset of 119,390 hotel bookings spanning July 2015 to August 2017 to uncover insights on booking patterns, cancellations, and guest behavior. Cleaned and transformed data by renaming columns for consistency, correcting errors, and filling in missing values. Built a date dimension and converted the main table into a star schema with dimensions. Developed interactive dashboards to visualize operational performance and key booking trends.  
    💡 **Technologies used:** Power BI (Power Query, M Language, DAX, Data Modeling)
-
-- 📊 [Olist E-Commerce Marketing Analytics](https://github.com/ZiadSharaf/Olist-E-Commerce-Marketing-Analytics)  
-  Designed a dimensional data model using a Galaxy Schema to integrate e-commerce and marketing data. Used Power Query for data cleaning and transformation, and DAX to calculate business KPIs. Developed Power BI reports to analyze sales, customer behavior, order fulfillment, payments, and marketing performance.  
-  💡 **Technologies used:** Power BI, Power Query, DAX
 
 - 📊 [Car Sales Project](https://github.com/ZiadSharaf/Car-Sales-Project)  
   Cleaned and analyzed a car sales dataset containing 30 manufacturers and 157 models. Predicted missing values using machine learning in Python and built interactive dashboards using Excel to uncover insights for stakeholders.  
