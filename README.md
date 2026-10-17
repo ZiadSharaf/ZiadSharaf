@@ -88,6 +88,3 @@ Here are a few of my highlighted projects:
 </p>
 
 
-
-
----\
